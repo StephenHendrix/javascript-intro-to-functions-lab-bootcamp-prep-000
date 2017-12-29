@@ -10,8 +10,3 @@ function sayhiToGrandma(string) {
     return "I can't hear you!"
   }
 }
-
-string = 'HELLO'
-string.toLowerCase() === 'lowercase'
-
-'hello' === 'lowercase'
