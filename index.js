@@ -10,5 +10,5 @@ function sayhiToGrandma(string) {
 }
 
 var string = "HELLO"
-string = 'hello'
+
 string.toUpperCase() === string
