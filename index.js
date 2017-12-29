@@ -6,9 +6,7 @@ function logShout(string) {console.log(string.toUpperCase())}
 function logWhisper(string) {console.log(string.toLowerCase())}
 
 function sayhiToGrandma(string) {
-  if (string === "hello")
+  if (string === "hello") {
+    "I can't hear you!"
+  }
 }
-
-var string = "HELLO"
-
-string.toUpperCase() === string
